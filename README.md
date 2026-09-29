@@ -42,7 +42,7 @@ All major modeling, scene construction, materials, and visual work were created 
   </tr>
 </table>
 
-**Spacecraft & Earth:** [View the 3D MODELS on Sketchfab](SKETCHFAB_LINK)
+**Spacecraft & Earth:** [View the 3D MODELS on Sketchfab](https://sketchfab.com/3d-models/programme-erizon-1dfbae39ee674334848da02301b77d68)
 
 ## License
 
