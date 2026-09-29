@@ -1,13 +1,15 @@
 # PROGRAMME ERIZON — 3D MODELS
 
-<table>
-<tr>
-<td><img src="001.png" width="450"></td>
-<td><img src="002.png" width="450"></td>
-</tr>
-</table>
+<img src="/renders/001.png" width="450">
 
 ## Overview
+
+<table>
+<tr>
+<td><img src="/renders/004.png" width="450"></td>
+<td><img src="/renders/005.png" width="450"></td>
+</tr>
+</table>
 
 **Programme ERIZON** is an original space project featuring a fictional **nuclear-powered spacecraft** and a detailed 3D model of Earth.
 
@@ -15,8 +17,8 @@ The entire spacecraft, Earth model, scene, materials, and presentation were crea
 
 <table>
 <tr>
-<td><img src="003.png" width="450"></td>
-<td><img src="004.png" width="450"></td>
+<td><img src="/renders/002.png" width="450"></td>
+<td><img src="/renders/006.png" width="450"></td>
 </tr>
 </table>
 
@@ -32,6 +34,13 @@ The entire spacecraft, Earth model, scene, materials, and presentation were crea
 All major modeling, scene construction, materials, and visual work were created by me.
 
 ## Demos
+
+<table>
+  <tr>
+    <td><img src="clay_img/row1.png" width="450"></td>
+    <td><img src="clay_img/row2.png" width="450"></td>
+  </tr>
+</table>
 
 **Spacecraft & Earth:** [View the 3D MODELS on Sketchfab](SKETCHFAB_LINK)
 
