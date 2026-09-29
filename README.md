@@ -1,6 +1,6 @@
 # PROGRAMME ERIZON — 3D MODELS
 
-<img src="/renders/001.png" width="450">
+<img src="/renders/001.png" width="700">
 
 ## Overview
 
